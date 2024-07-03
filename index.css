@@ -1,0 +1,529 @@
+.y1dgydr5kvm6achjor5gwoeh3v8hqy-icon {
+    position: absolute;
+    top: 110.2px;
+    left: -1px;
+    width: 1441px;
+    height: 247.8px;
+    object-fit: cover;
+  }
+  .contact-us-child {
+    position: absolute;
+    top: 110.2px;
+    left: 0;
+    background: linear-gradient(
+      90deg,
+      rgba(0, 82, 212, 0.4),
+      rgba(67, 100, 247, 0.4) 50%,
+      rgba(111, 177, 252, 0)
+    );
+    width: 1440px;
+    height: 247.8px;
+  }
+  .home,
+  .top-rated {
+    position: relative;
+  }
+  .top-rated {
+    opacity: 0.8;
+  }
+  .home-parent {
+    position: absolute;
+    top: 12px;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: center;
+    gap: 40px;
+  }
+  .falanguage-icon {
+    position: absolute;
+    top: 0;
+    left: 54.7px;
+    width: 24px;
+    height: 28px;
+    overflow: hidden;
+  }
+  .div {
+    position: absolute;
+    top: 3.5px;
+    left: 0;
+    font-weight: 300;
+  }
+  .falanguage-parent {
+    width: 78.7px;
+    position: relative;
+    height: 28px;
+  }
+  .group-child,
+  .login-register {
+    position: absolute;
+    top: 12px;
+    left: 17.6px;
+  }
+  .group-child {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-9xs);
+    border: 1px solid var(--color-royalblue-100);
+    box-sizing: border-box;
+    width: 162.1px;
+    height: 44.1px;
+  }
+  .login-register-parent {
+    width: 162.1px;
+    position: relative;
+    height: 44.1px;
+    color: var(--color-royalblue-100);
+  }
+  .group-item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-9xs);
+    background-color: var(--color-royalblue-100);
+    width: 160.1px;
+    height: 44.1px;
+  }
+  .apply-as-doctor {
+    position: absolute;
+    top: 12px;
+    left: 15.1px;
+  }
+  .rectangle-parent {
+    width: 160.1px;
+    position: relative;
+    height: 44.1px;
+    color: var(--color-white);
+  }
+  .group-parent {
+    position: absolute;
+    top: 0;
+    left: 628.6px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 25px;
+    color: var(--color-black);
+  }
+  .contact-us-inner,
+  .frame-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1079.5px;
+    height: 44.1px;
+  }
+  .contact-us-inner {
+    top: 35px;
+    left: 355.7px;
+    color: var(--color-steelblue);
+  }
+  .contact-us-item {
+    position: absolute;
+    top: 58.8px;
+    left: 575.2px;
+    width: 0;
+    height: 0.4px;
+    object-fit: contain;
+  }
+  .contact-us1 {
+    position: absolute;
+    top: 203.2px;
+    left: 191.5px;
+    font-size: 34px;
+    line-height: 22px;
+    font-weight: 600;
+    color: var(--color-white);
+  }
+  .span {
+    color: var(--color-black);
+  }
+  .home-contact-container {
+    position: absolute;
+    top: 0;
+    left: 26.3px;
+    line-height: 22px;
+  }
+  .fluenthome-16-filled-icon {
+    position: absolute;
+    top: 2.5px;
+    left: 0;
+    width: 18px;
+    height: 17px;
+    overflow: hidden;
+  }
+  .home-contact-us-parent {
+    position: absolute;
+    top: 243.1px;
+    left: 189.9px;
+    width: 198.3px;
+    height: 22px;
+    font-size: 18px;
+    color: var(--color-white);
+  }
+  .pulsify-02-1-icon {
+    position: absolute;
+    top: 23.6px;
+    left: 88.7px;
+    width: 148.4px;
+    height: 69.6px;
+    object-fit: cover;
+  }
+  .group-inner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #0a0e31;
+    width: 1440px;
+    height: 357.1px;
+  }
+  .line-div {
+    position: absolute;
+    top: 295.5px;
+    left: 186px;
+    border-top: 1px solid var(--color-white);
+    box-sizing: border-box;
+    width: 1111px;
+    height: 1px;
+    opacity: 0.6;
+  }
+  .copyright-pulsify {
+    position: absolute;
+    top: 316px;
+    left: 714.5px;
+    font-family: var(--font-sora);
+    opacity: 0.8;
+  }
+  .company-info {
+    position: relative;
+    font-weight: 600;
+  }
+  .about-us {
+    margin: 0;
+  }
+  .about-us-career-container {
+    position: relative;
+    line-height: 34px;
+    opacity: 0.8;
+  }
+  .about-us-career-blog-service-i-wrapper {
+    font-size: var(--font-size-base);
+    font-family: var(--font-sora);
+  }
+  .about-us-career-blog-service-i-wrapper,
+  .company-info-parent,
+  .use-links-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .company-info-parent {
+    gap: var(--gap-5xl);
+  }
+  .use-links-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0.8px;
+  }
+  .terms-and-conditions-container {
+    position: absolute;
+    top: 54px;
+    left: 0;
+    font-size: var(--font-size-base);
+    line-height: 34px;
+    font-family: var(--font-sora);
+    opacity: 0.8;
+  }
+  .frame-container {
+    width: 178px;
+    position: relative;
+    height: 156px;
+  }
+  .frame-group,
+  .parent {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .parent {
+    flex-direction: column;
+    gap: 16px;
+    font-size: var(--font-size-base);
+    font-family: var(--font-sora);
+  }
+  .frame-group {
+    position: absolute;
+    top: 64px;
+    left: 653.5px;
+    flex-direction: row;
+    gap: 106px;
+    font-size: var(--font-size-xl);
+  }
+  .pulsify-04-1-icon {
+    width: 172.5px;
+    position: relative;
+    height: 79.7px;
+    object-fit: cover;
+  }
+  .address-here {
+    position: relative;
+    font-weight: 300;
+  }
+  .address-here-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .youtube-icon {
+    width: 32px;
+    position: relative;
+    height: 32px;
+  }
+  .pulsify-04-1-parent,
+  .youtube-parent {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .youtube-parent {
+    flex-direction: row;
+    gap: 32px;
+  }
+  .pulsify-04-1-parent {
+    position: absolute;
+    top: 48.2px;
+    left: 186.5px;
+    flex-direction: column;
+    gap: var(--gap-5xl);
+  }
+  .rectangle-group {
+    position: absolute;
+    top: 1030px;
+    left: 0;
+    width: 1440px;
+    height: 357.1px;
+    color: var(--color-white);
+    font-family: var(--font-poppins);
+  }
+  .contact-us-child1,
+  .contact-us-child2,
+  .rectangle-div {
+    position: absolute;
+    top: 419.7px;
+    left: 603.3px;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+    background-color: var(--color-white);
+    width: 726.3px;
+    height: 537.4px;
+  }
+  .contact-us-child1,
+  .contact-us-child2 {
+    left: 203px;
+    width: 315px;
+    height: 84.3px;
+  }
+  .contact-us-child2 {
+    top: 525.3px;
+  }
+  .follow-us-on {
+    position: absolute;
+    top: 635.1px;
+    left: 203px;
+    line-height: 22px;
+    font-weight: 600;
+    color: var(--color-black);
+  }
+  .contact-us-child3,
+  .ellipse-div {
+    position: absolute;
+    top: 439.1px;
+    left: 232.2px;
+    border-radius: 50%;
+    background-color: var(--color-royalblue-200);
+    width: 45.6px;
+    height: 45.6px;
+  }
+  .contact-us-child3 {
+    top: 544.6px;
+  }
+  .carbonphone-filled-icon,
+  .clarityemail-solid-icon {
+    position: absolute;
+    top: 450.9px;
+    left: 244px;
+    width: 22px;
+    height: 22px;
+    overflow: hidden;
+  }
+  .clarityemail-solid-icon {
+    top: 556.7px;
+  }
+  .email-address,
+  .phone-number {
+    position: absolute;
+    top: 441.9px;
+    left: 326.7px;
+    line-height: 22px;
+    font-weight: 600;
+    color: var(--color-black);
+  }
+  .email-address {
+    top: 546.8px;
+  }
+  .div2,
+  .infopulsifycom {
+    position: absolute;
+    top: 466.8px;
+    left: 326.7px;
+    opacity: 0.8;
+  }
+  .infopulsifycom {
+    top: 571.6px;
+  }
+  .logosfacebook-icon,
+  .logosyoutube-icon {
+    position: absolute;
+    top: 690.7px;
+    left: 203px;
+    width: 26px;
+    height: 19px;
+    overflow: hidden;
+  }
+  .logosfacebook-icon {
+    top: 672.2px;
+    left: 247px;
+    width: 20.1px;
+  }
+  .get-in-touch {
+    position: absolute;
+    top: 455.3px;
+    left: 644.7px;
+    font-size: 22px;
+    line-height: 22px;
+    font-weight: 600;
+    color: var(--color-black);
+  }
+  .lorem-ipsum-dolor-container {
+    position: absolute;
+    top: 489px;
+    left: 647.7px;
+    line-height: 22px;
+    font-weight: 300;
+  }
+  .contact-us-child4,
+  .contact-us-child5 {
+    position: absolute;
+    left: 647.7px;
+    border-radius: var(--br-9xs);
+    width: 305.6px;
+    height: 52.2px;
+  }
+  .contact-us-child4 {
+    top: 568.1px;
+    border: 1px solid var(--color-gainsboro);
+    box-sizing: border-box;
+  }
+  .contact-us-child5 {
+    top: 643.3px;
+  }
+  .contact-us-child5,
+  .contact-us-child6,
+  .contact-us-child7 {
+    border: 1px solid var(--color-gainsboro);
+    box-sizing: border-box;
+  }
+  .contact-us-child6 {
+    position: absolute;
+    top: 712.9px;
+    left: 647.7px;
+    border-radius: var(--br-9xs);
+    width: 629.1px;
+    height: 129.9px;
+  }
+  .contact-us-child7 {
+    top: 568.1px;
+    left: 1029.2px;
+    width: 305.6px;
+    height: 52.2px;
+  }
+  .contact-us-child7,
+  .contact-us-child8,
+  .group-child1 {
+    position: absolute;
+    border-radius: var(--br-9xs);
+  }
+  .contact-us-child8 {
+    top: 643.3px;
+    left: 1029.2px;
+    border: 1px solid var(--color-gainsboro);
+    box-sizing: border-box;
+    width: 305.6px;
+    height: 52.2px;
+  }
+  .group-child1 {
+    top: 0;
+    left: 0;
+    background-color: var(--color-royalblue-100);
+    width: 156.3px;
+    height: 50.1px;
+  }
+  .send-message {
+    position: absolute;
+    top: 15px;
+    left: 18.7px;
+    font-weight: 600;
+  }
+  .rectangle-container {
+    position: absolute;
+    top: 870.7px;
+    left: 647.7px;
+    width: 156.3px;
+    height: 50.1px;
+    color: var(--color-white);
+  }
+  .div3,
+  .email,
+  .message,
+  .phone-number1,
+  .your-name {
+    position: absolute;
+    top: 583.2px;
+    left: 668.2px;
+    font-size: var(--font-size-sm);
+    line-height: 22px;
+  }
+  .div3,
+  .email,
+  .message,
+  .phone-number1 {
+    top: 658.3px;
+  }
+  .div3,
+  .email,
+  .message {
+    top: 724.8px;
+  }
+  .div3,
+  .email {
+    top: 658.3px;
+    left: 1051.8px;
+  }
+  .email {
+    top: 583.2px;
+  }
+  .contact-us {
+    width: 100%;
+    position: relative;
+    background-color: #f8f9fa;
+    height: 2157px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-slategray);
+    font-family: var(--font-sora);
+  }
+  
